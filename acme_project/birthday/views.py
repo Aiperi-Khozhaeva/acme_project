@@ -1,4 +1,4 @@
-# birthday/views.py 
+# type: ignore
 from django.shortcuts import render
 
 from .forms import BirthdayForm
